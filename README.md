@@ -1,8 +1,6 @@
-# Portfolio
-Data science portfolio
+# Portfolio 
 
-#[Project 1]:
-
+### Name of the project (theme): [name of the link] (link)
 
 
-#[Project 2]:
+-----------------------

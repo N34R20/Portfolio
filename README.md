@@ -70,8 +70,9 @@ dumping the dates and task and meetings in a json file
 
 
 -----------------------
-### Breast Cancer Classification [link]() 
+### Breast Cancer Classification [link](https://github.com/N34R20/Ciencia-de-Datos-DH/blob/main/TP-3/Tp_numero_3_clasificador_de_cancer_de_mama_-Tomi_2.ipynb) 
 
+The Dataset that i covered is about  
 
 -----------------------
 

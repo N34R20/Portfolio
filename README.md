@@ -18,7 +18,7 @@ Objectives:
 Main 
 
 ----------------------
-### Implementing a Data Pipeline for NBA Data
+### Implementing a Data Pipeline for NBA Data in Azure Cloud
 
 - Standard Process of ETL (Extraxct -> Transform -> Load)
 - 22 MB of data to clean, normalize and model 
@@ -58,4 +58,22 @@ dumping the dates and task and meetings in a json file
 -
 -
 - 
+
+-----------------------
+### NFL Winners Prediction [link]() 
+
+
+
+-----------------------
+### House prices Regression [link]() 
+
+
+
+-----------------------
+### Breast Cancer Classification [link]() 
+
+
+-----------------------
+
+
 -----------------------

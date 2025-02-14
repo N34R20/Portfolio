@@ -5,6 +5,19 @@
 
 Data scientist with experience in advanced analysis and modeling techniques. Experience in Python and the go to data analysis libraries (Pandas, NumPy and Scikit-learn). Extensive knowledge in data manipulation, cleaning and visualization. Skills in developing machine learning algorithms. Ability to communicate technical results to non-technical audiences. Passionate about discovering hidden patterns and generating meaningful insights from data. I am looking for challenging opportunities in data science.
 
+## Courses From University
+
+- Analysis 1
+- Analysis 2
+- Algebra 1
+- Algebra lineal
+- Advanced Calculus
+- Algorithms and Data Structures 1
+- Algorithms and Data Structures 2
+- Laboratory of Data
+- Lenguages and Automatas
+
+## Data Science Projects
 ----------------------
 ### Forecasting of car accidents in Buenos Aires City (Analysis, Data Manipulation and Time Series Modeling) : [link](https://github.com/N34R20/Ciencia-de-Datos-DH/tree/main/TP-4)
 
@@ -15,15 +28,6 @@ Objectives:
 - Root Cause Analysis
 - Geospatial Analysis
 - Predictive Modeling of Time Series
-Main 
-
-----------------------
-### Implementing a Data Pipeline for NBA Data in Azure Cloud
-
-- Standard Process of ETL (Extraxct -> Transform -> Load)
-- 22 MB of data to clean, normalize and model 
-- SparkSQL Analysis of convertion, assists and points 
-- PowerBI Dashboard for searching players Statistics
 
 
 ----------------------
@@ -34,16 +38,10 @@ Main
 -  Analysis
 - Predictive Modeling of Time Series
 
-
 ----------------------
 ### Covid and Pneumonia X-rays image Classifiaction (CNN) [link](https://github.com/N34R20/Codecademy/blob/main/Deep_learning_TF/Classification/classification-challenge/classification-challenge/classification-challenge-starter/Covid19-dataset/covid_dl_notebook.ipynb)
 
 Implementing a Convolutional Neural Network for classifying X-rays images of lungs, consiting of people with COVID-19 inffections, pneumonia, and healty pacients. 
-
-
-----------------------
-### Twitter Classification
-
 
 
 ----------------------
@@ -59,22 +57,3 @@ dumping the dates and task and meetings in a json file
 -
 - 
 
------------------------
-### NFL Winners Prediction [link]() 
-
-
-
------------------------
-### House prices Regression [link]() 
-
-
-
------------------------
-### Breast Cancer Classification [link](https://github.com/N34R20/Ciencia-de-Datos-DH/blob/main/TP-3/Tp_numero_3_clasificador_de_cancer_de_mama_-Tomi_2.ipynb) 
-
-The Dataset that i covered is about  
-
------------------------
-
-
------------------------

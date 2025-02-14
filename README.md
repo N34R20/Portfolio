@@ -7,15 +7,15 @@ Data scientist with experience in advanced analysis and modeling techniques. Exp
 
 ## Courses From University
 
-- Analysis 1
-- Analysis 2
-- Algebra 1
-- Algebra lineal
-- Advanced Calculus
-- Algorithms and Data Structures 1
-- Algorithms and Data Structures 2
-- Laboratory of Data
-- Lenguages and Automatas
+- Analysis 1 : 9/10
+- Analysis 2 : 7/10
+- Algebra 1 : 9/10
+- Algebra lineal: --
+- Advanced Calculus : without note
+- Algorithms and Data Structures 1 : 10/10
+- Algorithms and Data Structures 2 : 8/10
+- Laboratory of Data: 9/10
+- Lenguages and Automatas : --
 
 ## Data Science Projects
 ----------------------
